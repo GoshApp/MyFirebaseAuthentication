@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyFirebaseAuthentication</string>
+    <string name="def_web_client_id">484451928602-lhjo5p71cl52o8j8p2fli77md9o74cs1.apps.googleusercontent.com</string>
+</resources>
