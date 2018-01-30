@@ -23,7 +23,9 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.auth.GoogleAuthProvider;
-
+/**
+ https://www.youtube.com/watch?v=-ywVw2O1pP8
+ */
 public class MainActivity extends AppCompatActivity {
     private SignInButton mGoogleBtn;
     private static final int RC_SIGN_IN = 1;
